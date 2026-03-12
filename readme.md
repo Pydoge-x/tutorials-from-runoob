@@ -2,6 +2,8 @@
 
 一个用于爬取菜鸟教程 (runoob.com) 内容的 Python 工具，支持将教程转换为 HTML 和 PDF 格式。
 
+详细使用说明见：[MANUAL.md](./MANUAL.md)
+
 ## 功能特性
 
 - 支持爬取多个教程分类
