@@ -1,0 +1,10 @@
+{
+  "category_urls": [
+    "https://www.runoob.com/pytorch/pytorch-tutorial.html",
+    "https://www.runoob.com/tensorflow/tensorflow-tutorial.html",
+    "https://www.runoob.com/python-qt/qt-tutorial.html",
+    "https://www.runoob.com/jupyter-notebook/jupyter-notebook-tutorial.html"
+  ],
+  "delay": 1.5,
+  "auto_discover": true
+}
